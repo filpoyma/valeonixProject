@@ -39,11 +39,11 @@
   padding: 0 0 1px;
 }
 .design-group {
-  width: 312px;
+  width: 89%;
   margin: 0 !important;
   position: absolute;
   top: 17px;
-  left: calc(50% - 156px);
+  left: 17px;
   display: flex;
   flex-direction: row;
   align-items: flex-end;

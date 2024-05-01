@@ -1,0 +1,507 @@
+.header-item {
+  background-color: #fff;
+  width: 360px;
+  max-width: 100%;
+  height: 62px;
+  display: none;
+  position: relative;
+}
+
+.group-icon3, .group-icon4 {
+  z-index: 1;
+  width: 118.2px;
+  height: 24px;
+  position: relative;
+}
+
+.group-icon4 {
+  width: 16.8px;
+  height: 16.6px;
+}
+
+.group-container {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 9px;
+  display: flex;
+}
+
+.frame-child58 {
+  z-index: 1;
+  width: 20px;
+  height: 16px;
+  position: relative;
+}
+
+.header-inner1, .header1 {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 0 0 1px;
+  display: flex;
+}
+
+.header1 {
+  box-sizing: border-box;
+  z-index: 99;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 20px;
+  max-width: 100%;
+  padding: 16px 24px 22px;
+  position: sticky;
+  top: 0;
+}
+
+.frame-child59, .image-16-icon1 {
+  object-fit: contain;
+  debug_commit: 1de1738;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.image-16-icon1 {
+  align-self: stretch;
+  width: 200px;
+  min-height: 218px;
+  max-height: 100%;
+  margin-left: -219px;
+}
+
+.frame-child59 {
+  width: 7.3px;
+  height: 14.6px;
+}
+
+.frame-wrapper14 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 116px;
+  display: flex;
+}
+
+.image-13-icon1 {
+  object-fit: contain;
+  debug_commit: 1de1738;
+  flex-shrink: 0;
+  width: 223px;
+  height: 218px;
+  min-height: 218px;
+  position: relative;
+}
+
+.image-11-icon1 {
+  object-fit: cover;
+  width: 283px;
+  height: 287px;
+  position: absolute;
+  top: -143px;
+  right: -281px;
+  margin: 0 !important;
+}
+
+.frame-child60 {
+  debug_commit: 1de1738;
+  z-index: 1;
+  flex-shrink: 0;
+  width: 7.3px;
+  height: 14.6px;
+  position: relative;
+}
+
+.image-11-parent {
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+}
+
+.frame-wrapper15, .image-11-parent, .image-16-parent {
+  justify-content: flex-start;
+  display: flex;
+}
+
+.frame-wrapper15 {
+  flex-direction: column;
+  align-items: flex-start;
+  height: 116px;
+}
+
+.image-16-parent {
+  flex-direction: row;
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 17.8px;
+  padding: 0 44px 10px;
+}
+
+.h25 {
+  font-size: inherit;
+  align-self: stretch;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 300;
+  position: relative;
+}
+
+.b1 {
+  font-family: Helvetica Neue;
+}
+
+.blank-line24, .blank-line25, .p49, .p50 {
+  margin: 0;
+}
+
+.b2 {
+  font-family: Helvetica Neue;
+}
+
+.blank-line26, .whole-foods-co {
+  margin: 0;
+}
+
+.span11 {
+  font-family: Helvetica Neue;
+}
+
+.blank-line27, .p51 {
+  margin: 0;
+}
+
+.b3 {
+  font-family: Helvetica Neue;
+}
+
+.p52 {
+  margin: 0;
+}
+
+.whole-foods-co-container {
+  align-self: stretch;
+  font-size: 14px;
+  position: relative;
+}
+
+.ingredient-inner, .parent16 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.parent16 {
+  flex-direction: column;
+  flex: 1;
+  gap: 26px;
+}
+
+.ingredient-inner {
+  text-align: left;
+  color: #292929;
+  flex-direction: row;
+  align-self: stretch;
+  padding: 0 24px 34px;
+  font-family: Helvetica Neue;
+  font-size: 25px;
+}
+
+.frame-child61 {
+  background-color: #f0f0f0;
+  width: 360px;
+  max-width: 100%;
+  height: 635px;
+  display: none;
+  position: relative;
+}
+
+.h13 {
+  font-size: inherit;
+  z-index: 1;
+  align-self: stretch;
+  font-family: inherit;
+  font-weight: 300;
+  position: relative;
+}
+
+.h13, .p53, .p54 {
+  margin: 0;
+}
+
+.div39, .parent17 {
+  align-self: stretch;
+}
+
+.div39 {
+  z-index: 1;
+  font-size: 14px;
+  position: relative;
+}
+
+.parent17 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  display: flex;
+}
+
+.frame-child62 {
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 4px;
+  width: 205px;
+  height: 36px;
+  display: none;
+  position: relative;
+}
+
+.e-mail3 {
+  color: #8f8f8f;
+  text-align: left;
+  z-index: 2;
+  background-color: #0000;
+  border: 0;
+  outline: 0;
+  width: 37px;
+  height: 13px;
+  padding: 0;
+  font-family: Overpass Mono;
+  font-size: 10px;
+  display: inline-block;
+  position: relative;
+}
+
+.rectangle-parent15 {
+  z-index: 1;
+  border: 1px solid #000;
+  border-radius: 4px;
+  flex-direction: row;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px 14px 9px;
+  display: flex;
+}
+
+.frame-child63 {
+  z-index: 1;
+  align-self: stretch;
+  width: 99px;
+  min-height: 36px;
+  max-height: 100%;
+  position: relative;
+}
+
+.frame-parent47 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 8px;
+  display: flex;
+}
+
+.blank-line28, .blank-line29, .blank-line30, .p55, .p56 {
+  margin: 0;
+}
+
+.a7, .a8 {
+  color: inherit;
+}
+
+.p57 {
+  margin: 0;
+}
+
+.blank-line32 {
+  color: inherit;
+}
+
+.blank-line31 {
+  margin: 0;
+}
+
+.a9 {
+  color: inherit;
+}
+
+.blank-line33, .blank-line34, .blank-line35, .infolovularcom5, .p58, .p59 {
+  margin: 0;
+}
+
+.infolovularcom4 {
+  color: #8f8f8f;
+  z-index: 1;
+  height: 221px;
+  font-size: 14px;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent46 {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 29px;
+  display: flex;
+}
+
+.frame-child64 {
+  z-index: 1;
+  width: 47.9px;
+  height: 13.1px;
+  position: relative;
+}
+
+.frame-wrapper16 {
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 47.9px;
+  padding: 0 0 1.4px;
+  display: flex;
+}
+
+.vector-icon2 {
+  z-index: 1;
+  align-self: stretch;
+  width: 26.1px;
+  min-height: 16px;
+  max-height: 100%;
+  position: relative;
+}
+
+.frame-child65 {
+  z-index: 1;
+  width: 43.1px;
+  height: 14px;
+  position: relative;
+}
+
+.frame-wrapper17 {
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 43.1px;
+  padding: 0 0 1px;
+  display: flex;
+}
+
+.frame-parent49 {
+  flex-direction: row;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 17px;
+  display: flex;
+}
+
+.valeonix-20242 {
+  z-index: 1;
+  align-self: stretch;
+  position: relative;
+}
+
+.frame-parent48, .rectangle-parent14, .valeonix-2024-frame {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.valeonix-2024-frame {
+  flex-direction: column;
+  flex: 1;
+  padding: 1px 0 0;
+}
+
+.frame-parent48, .rectangle-parent14 {
+  align-self: stretch;
+}
+
+.frame-parent48 {
+  text-align: right;
+  color: #000;
+  flex-direction: row;
+  gap: 9px;
+  font-size: 14px;
+}
+
+.rectangle-parent14 {
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+  flex-direction: column;
+  gap: 45px;
+  max-width: 100%;
+  padding: 64px 24px 38px;
+}
+
+.frame-child66 {
+  background-color: #c1c1c1;
+  width: 360px;
+  max-width: 100%;
+  height: 47px;
+  display: none;
+  position: relative;
+}
+
+.h31 {
+  font-size: inherit;
+  z-index: 1;
+  flex: 1;
+  height: 24px;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 700;
+  display: inline-block;
+  position: relative;
+}
+
+.frame-parent45, .ingredient, .rectangle-parent16 {
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.rectangle-parent16 {
+  box-sizing: border-box;
+  white-space: nowrap;
+  text-align: center;
+  color: #f0f0f0;
+  background-color: #c1c1c1;
+  flex-direction: row;
+  align-self: stretch;
+  max-width: 100%;
+  padding: 15px 24px 8px;
+  font-family: DIN Condensed;
+  font-size: 20px;
+}
+
+.frame-parent45, .ingredient {
+  flex-direction: column;
+}
+
+.frame-parent45 {
+  text-align: left;
+  color: #292929;
+  align-self: stretch;
+  max-width: 100%;
+  font-family: Helvetica Neue;
+  font-size: 35px;
+}
+
+.ingredient {
+  letter-spacing: normal;
+  background-color: #fff;
+  gap: 47px;
+  width: 100%;
+  line-height: normal;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=ingredient.df4ad010.css.map */

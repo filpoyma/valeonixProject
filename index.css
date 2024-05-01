@@ -32,13 +32,15 @@
 .logic-tree {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 .design-parent {
-  width: 312px;
+  width: 89%;
   margin: 0 !important;
   position: absolute;
   top: 17px;
-  left: calc(50% - 156px);
+  left: 17px;
+  right: 17px;
   align-items: flex-end;
   justify-content: space-between;
   gap: 20px;
