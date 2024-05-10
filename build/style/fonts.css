@@ -1,0 +1,42 @@
+/* Helvetica */
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('./../fonts/helvetica/HelveticaNeueCyr-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url('./../fonts/helvetica/HelveticaNeueCyr-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url('./../fonts/helvetica/HelveticaNeueCyr-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url('./../fonts/helvetica/HelveticaNeueCyr-Light.ttf');
+    font-weight: 300;
+}
+
+/* Overpass */
+
+
+@font-face {
+    font-family: "Overpass";
+    src: url('./../fonts/overpass/OverpassMono-Regular.ttf');
+    font-weight: 400;
+}
+
+/* DIN */
+
+@font-face {
+    font-family: "DIN";
+    src: url('./../fonts/din/D-DINCondensed-Bold.ttf');
+    font-weight: 700;
+}
